@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # astoria-aug
 try out your astoria
-=======
----
 title: BeyondChatGPT Demo
 emoji: 📉
 colorFrom: pink
@@ -192,4 +189,3 @@ Who else is diving into the world of AI? Let's connect! 🌐💡
 <p></p>
 
 ### That's it for now!  And so it begins.... :)
->>>>>>> BCBranch
